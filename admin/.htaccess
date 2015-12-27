@@ -1,0 +1,5 @@
+RewriteBase /
+AuthType Basic
+AuthName "Admin panel"
+AuthUserFile /home/u675773894/public_html/blog/admin/.htpasswd
+Require valid-user

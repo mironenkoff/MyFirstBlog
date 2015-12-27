@@ -1,0 +1,18 @@
+footer {
+    text-align: center;
+}
+
+.article {
+    margin-top: 50px;
+    margin-bottom: 70px;
+}
+.admin-table {
+    width: 100%;
+    border: 1px dashed blue;
+}
+label {
+    width: 100%;
+}
+.form-item {
+    width: 100%;
+}
