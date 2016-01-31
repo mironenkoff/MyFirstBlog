@@ -16,6 +16,7 @@
             <h1>Мой первый блог</h1>
 			<div>
             <a href="index.php?action=add">Добавить статью</a>
+            <a href="../index.php">На главную страницу</a>
             <table class="admin-table">
 				<tr>
 					<th>Дата</th>
